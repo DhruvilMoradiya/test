@@ -1,1 +1,1 @@
-console.log('hello world from version 2')
+console.log('hello world from version 2 also new')
